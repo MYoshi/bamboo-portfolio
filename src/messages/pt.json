@@ -1,48 +1,44 @@
 {
   "LocaleLayout": {
-    "title": "O Caramelo Aventureiro",
-    "description": "Siga as aventuras do Caramelo, o cachorro mais fofo do Japão! Desde filhote até explorar o mundo, descubra sua jornada através de fotos, vídeos e histórias.",
-    "keywords": "Caramelo, cachorro, aventura, Japão, filhote, fotos, vídeos, histórias, cachorro fofo, viagem, blog de pets"
+    "title": "Bamboo Marcelo Fukumoto",
+    "description": "Portfólio de Marcelo Fukumoto, desenvolvedor especializado em React, Next.js e TypeScript. Confira meus projetos e colaborações.",
+    "keywords": "Marcelo Fukumoto, desenvolvedor, React, Next.js, TypeScript, portfólio, projetos, colaborações"
   },
-  "Main": {
-    "topTitle": "O Caramelo\nAventureiro",
-    "bottomText": "Conheça a minha história!"
-  },
-  "Footer": {
-    "copyright": "© 2025 O Caramelo Aventureiro. Todos os direitos reservados."
-  },
-  "About": {
-    "heading": "Siga as patinhas do Caramelo 🐾",
-    "journey": "A jornada continua! Acompanhe o Caramelo em novas aventuras pelo Japão e pelo mundo. Fotos, vídeos, dicas e muita fofura direto do focinho mais curioso da internet.",
-    "contact": "📬 Quer mandar um alô ou compartilhar sua própria aventura canina? Fale com a gente!",
-    "instagram": "@ocarameloaventureiro",
-    "email": "contato@ocarameloaventureiro.com"
-  },
-  "Photo": {
-    "alt": "O Caramelo Aventureiro - Foto {number}"
-  },
-  "Gallery": {
-    "ariaLabel": "Galeria de fotos de O Caramelo Aventureiro"
-  },
-  "CarameloGallery": {
-    "1": "Oiii pessoal,\nesse é um\nregistro de quando\neu ainda era\num filhote, com\num dos meus\nprimeiros brinquedos:\numa bolinha !",
-    "2": "Aqui sou eu\nexibindo todo o\nmeu charme com\no meu colete\nde barbatana de\ntubarão nas praias\ndo Japão. Um\nverdadeiro ícone !",
-    "3": "Eu com meu\ncasaco vermelho por\naí, desfilando o\nmeu charme",
-    "4": "Esse dia estava\ntão quente que\neu nem conseguia\nabrir os olhos,\nmas eu nunca\ndeixo o passeio\nde lado se\nme chamam pra\nsair eu estou\nsempre pronto.",
-    "5": "Os dias de\nprimavera no Japão\nsão os melhores\npra passear. O\nclima é agradável\ne sempre é\npossível contrar\nflorzinhas lindinhas\npelo caminho.",
-    "6": "Mostrando um pouco\ndas belezas dos\nparques do Japão.\nE claro, eu\nnão posso faltar\nnesse registro",
-    "7": "Cheirando as\nflorzinhas pelo\ncaminho",
-    "8": "Fazendo o que\neu mais amo\ndepois de comer:\npasseando !",
-    "9": "Pensando aqui…..\nserá que eu\nposso fazer xixi\naqui ?",
-    "10": "A temporada mais\nlinda do ano\nchegou ! Ver\nas sakuras desabrochando\né um momento\nmuito especial e\neu não poderia\nficar de fora",
-    "11": "Tenho até\nchapeuzinho…. Olha\nque charme !",
-    "12": "Preparado para\nfesta",
-    "13": "Tentando caprichar\nna carinha de\npena pra ver\nse desistem de\nme dar banho.\nAviso : não\nfuncionou 🥲",
-    "14": "O leão mais\nfofo que você\njá viu 🥰",
-    "15": "Look pronto: hora\nde passeio na\nneve ⛄️",
-    "16": "Um dia lindo\nde verão no\nparque",
-    "17": "Cuidado: tubarão\nandando",
-    "18": "Um Caramelo jovem\ne feliz\nna sua primeira\nfoto em solo\njaponês"
+  "Home": {
+    "name": "Marcelo Fukumoto",
+    "role": "Engenheiro de Software",
+    "about": "Engenheiro de software apaixonado por criar soluções inovadoras. Dando vida a designs com código, um projeto de cada vez. Apaixonado por IA, usando para melhorar experiências e processos. Sempre aprendendo, sempre crescendo. Abraçando novos desafios e tecnologias.",
+    "aiTools": "Claude, ChatGPT e GitHub Copilot são meus companheiros diários.",
+    "alwaysLearning": "Sempre aprendendo, sempre crescendo. Abraçando novos desafios e tecnologias.",
+    "companies": ["AXA Japan", "Rakuten", "Clube da Entrega"],
+    "companyDetails": [
+      [
+        "Líder técnico e Solution Owner de um time distribuído de 10 membros.",
+        "Arquitetou 15 microsserviços em ambiente AWS e Kubernetes usando Typescript, React, Next.js, Node.js, Java, Lambda, MongoDB, reduzindo custos ao migrar de um servidor monolítico.",
+        "Lançou um Design System com impacto direto na conversão.",
+        "Criou pipelines CI/CD com Jenkins e GitOps, reduzindo o tempo de deploy de mais de 1h para menos de 5min. Introduziu Test Automation com Playwright, reduzindo regressão em 50%.",
+        "Manteve Design System escalável no Figma, integrado ao Storybook.",
+        "Liderou pilotos de Feature Flags, Alerts no Splunk, promovendo inovação.",
+        "Mentorou engenheiros com 1on1s mensais e ciclos de feedback.",
+        "Manteve abordagem hands-on, liderando pelo exemplo.",
+        "Liderou e mentorou o time para uso de GenAI no desenvolvimento."
+      ],
+      [
+        "Liderou time de 4 membros em projetos de suporte ao cliente em tempo real.",
+        "Refatorou sistema de chat de suporte para nova estrutura com Next.js, NodeJS, ReactJS, JAVA, Event Driven e WebSockets.",
+        "Melhorou processos com CI/CD e Test Automation, eliminando testes manuais."
+      ],
+      [
+        "Fundou a startup, desenvolvendo os primeiros protótipos e arquitetura completa na AWS.",
+        "Formou e treinou equipe de engenharia, introduzindo Agile, CI/CD e Git.",
+        "Fechou contrato com o McDonald’s."
+      ]
+    ],
+    "aboutParagraphs": [
+      "Com mais de 10 anos de experiência em engenharia de software, venho construindo e liderando equipes de alta performance no Brasil e no Japão—impulsionando inovação em frontend e backend com tecnologias como React, Next.js, Node.js e Java.",
+      "Liderei a arquitetura de microsserviços escaláveis em AWS + Kubernetes, introduzi pipelines CI/CD que reduziram o tempo de deploy em 90% e promovi práticas modernas como automação de testes, feature flags e arquitetura orientada a eventos.",
+      "Na AXA Japão, fui reconhecido com o prêmio MVP pela liderança e impacto—mentorei engenheiros, liderei pilotos e lancei um design system integrado ao Figma e Storybook.",
+      "Desde fundar minha própria startup até integrar GenAI em fluxos de trabalho corporativos, minha trajetória reflete uma abordagem prática, com ownership e profundidade técnica aliada à liderança focada em pessoas."
+    ]
   }
-
 }

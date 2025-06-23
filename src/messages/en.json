@@ -1,47 +1,44 @@
 {
   "LocaleLayout": {
-    "title": "The Adventurous Caramelo",
-    "description": "Follow the adventures of Caramelo, the cutest dog in Japan! From puppyhood to exploring the world, discover his journey through photos, videos, and stories.",
-    "keywords": "Caramelo, dog, adventure, Japan, puppy, photos, videos, stories, cute dog, travel, pet blog"
+    "title": "Bamboo Marcelo Fukumoto",
+    "description": "Portfolio of Marcelo Fukumoto, a developer specialized in React, Next.js, and TypeScript. Check out my projects and collaborations.",
+    "keywords": "Marcelo Fukumoto, developer, React, Next.js, TypeScript, portfolio, projects, collaborations"
   },
-  "Main": {
-    "topTitle": "The Adventurous Caramelo",
-    "bottomText": "Discover my story!"
-  },
-  "Footer": {
-    "copyright": "© 2025 The Adventurous Caramelo. All rights reserved."
-  },
-  "About": {
-    "heading": "Follow Caramelo's pawprints 🐾",
-    "journey": "The journey continues! Follow Caramelo on new adventures in Japan and around the world. Photos, videos, tips, and lots of cuteness straight from the most curious snout on the internet.",
-    "contact": "📬 Want to say hi or share your own dog adventure? Contact us!",
-    "instagram": "@ocarameloaventureiro",
-    "email": "contato@ocarameloaventureiro.com"
-  },
-  "Photo": {
-    "alt": "The Adventurous Caramelo - Photo {number}"
-  },
-  "Gallery": {
-    "ariaLabel": "Photo gallery of The Adventurous Caramelo"
-  },
-  "CarameloGallery": {
-    "1": "Hi everyone,\nthis is a\nphoto from\nwhen I was\nstill a puppy,\nwith one of\nmy first toys:\na little ball!",
-    "2": "Here I am\nshowing off\nall my charm\nwith my shark\nfin vest on\nthe beaches of\nJapan. A true\nicon!",
-    "3": "Me with my\nred coat out\nand about,\nshowing off my\ncharm.",
-    "4": "That day was\nso hot I\ncouldn't even\nopen my eyes,\nbut I never\nskip a walk—if\nsomeone calls me\nout, I'm always\nready.",
-    "5": "Spring days in\nJapan are the\nbest for walks.\nThe weather is\npleasant and you\ncan always find\ncute little flowers\nalong the way.",
-    "6": "Showing a bit\nof the beauty\nof Japan's parks.\nAnd of course,\nI can't miss\nbeing in the\npicture!",
-    "7": "Smelling the\nflowers along\nthe way.",
-    "8": "Doing what I\nlove most after\neating: going for\nwalks!",
-    "9": "Thinking here...\ncan I pee\nhere?",
-    "10": "The most beautiful\nseason of the\nyear has arrived!\nSeeing the sakuras\nbloom is a\nvery special moment\nand I couldn't\nmiss it.",
-    "11": "I even have\na little hat...\nLook how charming!",
-    "12": "Ready for the\nparty.",
-    "13": "Trying my best\nsad face to\nsee if they\ngive up on\nbathing me. Spoiler:\nit didn't work 🥲",
-    "14": "The cutest lion\nyou've ever seen 🥰",
-    "15": "Outfit ready: time\nfor a walk\nin the snow ⛄️",
-    "16": "A beautiful summer\nday in the\npark.",
-    "17": "Careful: shark\nwalking.",
-    "18": "A young and\nhappy Caramelo in\nhis first photo\non Japanese soil."
+  "Home": {
+    "name": "Marcelo Fukumoto",
+    "role": "Software Engineer",
+    "about": "A passionate software engineer with a love for creating innovative solutions. Making designs come to life with code, one project at a time. Passionate about AI, using it to enhance user experiences and streamline processes. Always learning, always growing. Embracing new challenges and technologies.",
+    "aiTools": "Claude, ChatGPT, and GitHub Copilot are my daily companions.",
+    "alwaysLearning": "Always learning, always growing. Embracing new challenges and technologies.",
+    "companies": ["AXA Japan", "Rakuten", "Clube da Entrega"],
+    "companyDetails": [
+      [
+        "Technical Lead and Solution Owner for a 10 members distributed team.",
+        "Architected 15 microservices in an AWS and Kubernetes empowered environment using Typescript, React, Next.js, Node.js, Java, Lambda, MongoDB, saving cost after removing previous framework and moving out of a Monolithic server.",
+        "Launched a company-wide Design System which had a direct impact on conversion rate.",
+        "Designed and created CI/CD pipelines with Jenkins and GitOps, cutting deployment time from more than 1 hour to less than 5 minutes. Introduced Test Automation in Playwright, reducing regression by 50%.",
+        "Built and maintained a scalable Design System in Figma, integrated with Storybook for seamless collaboration between design and engineering teams.",
+        "Led many successful pilots, like the introduction of Feature Flags, Alerts Improvement on Splunk, improving innovation in the company.",
+        "Mentored engineers via monthly 1on1 and quarterly review. Conducted a 2-year cycle of goal settings and feedback.",
+        "Maintained a hands-on approach, leading by example.",
+        "Led and mentored developer team to use GenAI for development."
+      ],
+      [
+        "Led the team of 4 members to deliver projects on real time customer support applications.",
+        "Refactored support chat system for e-commerce to a new structure using Next.js, NodeJS, ReactJS, JAVA, Event Driven and WebSockets.",
+        "Improved process by introducing tools like CI/CD and Test Automation, removing need for manual regression test."
+      ],
+      [
+        "Created the startup developing the first prototypes, creating the first architecture for all applications. That includes the entire setup on AWS, including server, databases, DNS, security.",
+        "Created and coached a new engineering team, introducing Agile, CI/CD, and Git workflows.",
+        "Established contract with McDonald’s."
+      ]
+    ],
+    "aboutParagraphs": [
+      "With over 10 years of experience in software engineering, I’ve been building and leading high-performing teams across Brazil and Japan—driving innovation in frontend and backend development with technologies like React, Next.js, Node.js, and Java.",
+      "I’ve led the architecture of scalable microservices on AWS + Kubernetes, introduced CI/CD pipelines that slashed deployment time by 90%, and championed modern practices like test automation, feature flags, and event-driven architecture.",
+      "At AXA Japan, I was recognized with the MVP award for my leadership and impact—mentoring engineers, leading pilots, and launching a company-wide design system integrated with Figma and Storybook.",
+      "From founding my own startup to integrating Generative AI into enterprise workflows, my journey reflects a hands-on, ownership-driven approach backed by strong technical depth and people-first leadership."
+    ]
   }
 }
