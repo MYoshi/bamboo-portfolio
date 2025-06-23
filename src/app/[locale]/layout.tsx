@@ -3,6 +3,7 @@ import { hasLocale, type Locale, NextIntlClientProvider } from 'next-intl';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Script from 'next/script';
+import VideoBackground from '@/components/VideoBackground';
 import { routing } from '@/i18n/routing';
 import { poppins } from '../fonts';
 import '../globals.css';
@@ -64,6 +65,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       <body
         className={`${poppins.className} antialiased`}
       >
+        <VideoBackground />
         <NextIntlClientProvider>
           {children}
         </NextIntlClientProvider>
