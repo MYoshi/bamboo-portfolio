@@ -32,6 +32,12 @@
         "Created and coached a new engineering team, introducing Agile, CI/CD, and Git workflows.",
         "Established contract with McDonald’s."
       ]
+    ],
+    "aboutParagraphs": [
+      "With over 10 years of experience in software engineering, I’ve been building and leading high-performing teams across Brazil and Japan—driving innovation in frontend and backend development with technologies like React, Next.js, Node.js, and Java.",
+      "I’ve led the architecture of scalable microservices on AWS + Kubernetes, introduced CI/CD pipelines that slashed deployment time by 90%, and championed modern practices like test automation, feature flags, and event-driven architecture.",
+      "At AXA Japan, I was recognized with the MVP award for my leadership and impact—mentoring engineers, leading pilots, and launching a company-wide design system integrated with Figma and Storybook.",
+      "From founding my own startup to integrating Generative AI into enterprise workflows, my journey reflects a hands-on, ownership-driven approach backed by strong technical depth and people-first leadership."
     ]
   }
 }
