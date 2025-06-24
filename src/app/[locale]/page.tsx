@@ -35,8 +35,6 @@ export default function Home() {
                   {t('about')}
                   <br />
                   <span>{t('aiTools')}</span>
-                  <br />
-                  <span>{t('alwaysLearning')}</span>
                 </p>
                 <SocialLinks />
                 <div className="flex flex-col justify-center items-center lg:items-start  w-full mt-7">
