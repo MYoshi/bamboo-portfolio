@@ -49,17 +49,17 @@ export default async function LocaleLayout({ children, params }: Props) {
             gtag('config', 'G-0C23QGEBV4');
           `}
         </Script>
-        <link rel="canonical" href="https://ocarameloaventureiro.com/" />
+        <link rel="canonical" href="https://marcelofukumoto.com/" />
         {/* Open Graph tags */}
-        <meta property="og:title" content="O Caramelo Aventureiro" />
-        <meta property="og:description" content="O caramelo aventureiro, o melhor caramelo do mundo!" />
+        <meta property="og:title" content="Marcelo Fukumoto Portfolio" />
+        <meta property="og:description" content="Portfolio of Marcelo Fukumoto, a developer specialized in React, Next.js, and TypeScript." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://ocarameloaventureiro.com/" />
+        <meta property="og:url" content="https://marcelofukumoto.com/" />
         <meta property="og:image" content="/images/caramelo/caramelobot.jpg" />
         {/* Twitter Card tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="O Caramelo Aventureiro" />
-        <meta name="twitter:description" content="O caramelo aventureiro, o melhor caramelo do mundo!" />
+        <meta name="twitter:title" content="Marcelo Fukumoto Portfolio" />
+        <meta name="twitter:description" content="Portfolio of Marcelo Fukumoto, a developer specialized in React, Next.js, and TypeScript." />
         <meta name="twitter:image" content="/images/caramelo/caramelobot.jpg" />
       </head>
       <body

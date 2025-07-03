@@ -1,12 +1,12 @@
-# O Caramelo Aventureiro – Portfolio
+# Bamboo Portfolio – Marcelo Fukumoto
 
-Welcome to the codebase for **O Caramelo Aventureiro**, a modern, multilingual portfolio project built with Next.js, Tailwind CSS, and a suite of best-practice tools. This project demonstrates advanced configuration, modular architecture, and a focus on accessibility, SEO, and developer experience.
+Welcome to the codebase for **Bamboo Portfolio**, a modern, multilingual portfolio project built with Next.js, Tailwind CSS, and a suite of best-practice tools. This project demonstrates advanced configuration, modular architecture, and a focus on accessibility, SEO, and developer experience.
 
-## 🐾 About the Project & Story
+## �‍💻 About the Project
 
-O Caramelo Aventureiro is more than just a portfolio—it's the digital home of a beloved Instagram dog who shares his adventures, travels, and daily life with fans around the world! Inspired by the real-life journey of Caramelo, this site brings together stories, photos, and videos from his explorations in Japan and beyond. The project showcases not only technical skills but also the power of storytelling and community-building through social media.
+This is the professional portfolio of **Marcelo Fukumoto**, a passionate software engineer with over 10 years of experience in software development. The portfolio showcases his journey across Brazil and Japan, leading high-performing teams and driving innovation in frontend and backend development with technologies like React, Next.js, Node.js, and Java.
 
-Follow Caramelo on Instagram: [@ocarameloaventureiro](https://instagram.com/ocarameloaventureiro)
+The site features a beautiful video background, multilingual support, and a comprehensive overview of professional experience including work at AXA Japan, Rakuten, and Clube da Entrega.
 
 ## 🚀 Features
 
@@ -19,8 +19,9 @@ Follow Caramelo on Instagram: [@ocarameloaventureiro](https://instagram.com/ocar
 - **Google Analytics**: Integrated via Next.js `<Script>` for performance
 - **Image Optimization**: Responsive images, lazy loading, and custom shadows
 - **Testing**: Jest and React Testing Library for unit and snapshot tests
-- **Custom Hooks & Utilities**: Modular, reusable logic for animation and UI
-- **Organized Public Assets**: Images, videos, and icons grouped by feature
+- **Video Background**: Immersive full-screen video background with smooth transitions
+- **Company Showcase**: Dynamic display of professional experience and achievements
+- **Responsive Design**: Mobile-first approach with beautiful layouts across all devices
 
 ## 🛠️ Project Structure
 
@@ -36,7 +37,7 @@ src/
   components/     # Modular, feature-based React components
   hooks/          # Custom React hooks
   utils/          # Utility functions
-  messages/       # i18n translation files (en, pt)
+  messages/       # i18n translation files (en, pt, ja)
   i18n/           # Routing and config for next-intl
 ```
 
@@ -58,7 +59,8 @@ src/
 
 ## 🌍 Internationalization (i18n)
 - Uses `next-intl` for locale routing and translation loading
-- All user-facing text is translatable via `src/messages/en.json` and `pt.json`
+- All user-facing text is translatable via `src/messages/en.json`, `pt.json`, and `ja.json`
+- Supports English, Portuguese, and Japanese languages
 - Language switcher and dynamic locale detection
 
 ## 🎨 Styling
@@ -91,4 +93,4 @@ MIT
 
 ---
 
-> **Made with Next.js, Tailwind CSS, and ❤️ by [Your Name]**
+> **Made with Next.js, Tailwind CSS, and ❤️ by Marcelo Fukumoto**
