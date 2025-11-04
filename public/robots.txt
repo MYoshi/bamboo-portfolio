@@ -1,4 +1,4 @@
-# robots.txt for ocarameloaventureiro.com
+# robots.txt for marcelofukumoto.com
 User-agent: *
 Allow: /
 
@@ -14,7 +14,7 @@ Allow: /images/
 Allow: /videos/
 
 # Sitemap location
-Sitemap: https://ocarameloaventureiro.com/sitemap.xml
+Sitemap: https://marcelofukumoto.com/sitemap.xml
 
 # Crawl-delay for all bots (optional, uncomment if needed)
 # Crawl-delay: 10

@@ -55,12 +55,10 @@ export default async function LocaleLayout({ children, params }: Props) {
         <meta property="og:description" content="Portfolio of Marcelo Fukumoto, a developer specialized in React, Next.js, and TypeScript." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://marcelofukumoto.com/" />
-        <meta property="og:image" content="/images/caramelo/caramelobot.jpg" />
         {/* Twitter Card tags */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Marcelo Fukumoto Portfolio" />
         <meta name="twitter:description" content="Portfolio of Marcelo Fukumoto, a developer specialized in React, Next.js, and TypeScript." />
-        <meta name="twitter:image" content="/images/caramelo/caramelobot.jpg" />
       </head>
       <body
         className={`${poppins.className} antialiased`}
